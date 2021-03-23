@@ -61,4 +61,5 @@ function draw(){
 
     bird.display();
     platform.display();
+    //my name is sparsh shetty and this is git hub and git bash
 }
